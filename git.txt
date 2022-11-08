@@ -1,0 +1,14 @@
+git init
+git status
+git add file.txt
+git commit -m "Inicio del proyecto"
+
+git branch -M main  -> cambia nombre de la rama
+
+git remote add origin <direccion>   -> agregando la direccion del repositorio remoto
+
+git push -u origin main  ->sube el proyecto al repositorio remoto
+
+git pull origin main   ->descargar los cambios del repositorio remoto
+
+
